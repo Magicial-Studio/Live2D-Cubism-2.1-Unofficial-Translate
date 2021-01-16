@@ -34,6 +34,5 @@
 
 然后手动将CubismAnimator2_32.bat（CubismAnimator2_64.bat）CubismAnimator2_32.bat（CubismAnimator2_64.bat）内的%JAVA_EXE% -Duser.language=en 后的en替换为自己想要的语言然后把对应的可执行文件拖到对应的bat上即可（如zhcn）
 
-## 这个项目使用的开源协议
-
-MIT
+## 贡献列表（排名不分先后）
+### ZH:史莱姆派,Raspberry Monster
